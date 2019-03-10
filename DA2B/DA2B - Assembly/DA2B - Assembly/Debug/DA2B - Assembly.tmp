@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\moham\Documents\School\CPE 301\Repository\CPE_301\ESD301DA\DA2B\DA2B - Assembly\DA2B - Assembly\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\moham\Documents\School\CPE 301\Repository\CPE_301\ESD301DA\DA2B\DA2B - Assembly\DA2B - Assembly\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\moham\Documents\School\CPE 301\Repository\CPE_301\ESD301DA\DA2B\DA2B - Assembly\DA2B - Assembly\Debug\DA2B - Assembly.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA2B - Assembly.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA2B - Assembly.map</FILE>
+  <FILE>DA2B - Assembly.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\moham\Documents\School\CPE 301\Repository\CPE_301\ESD301DA\DA2B\DA2B - Assembly\DA2B - Assembly\main.asm</FILE><LINE>8</LINE></MAIN>
+  <EX0_ISR><FILE>C:\Users\moham\Documents\School\CPE 301\Repository\CPE_301\ESD301DA\DA2B\DA2B - Assembly\DA2B - Assembly\main.asm</FILE><LINE>26</LINE></EX0_ISR>
+  <HERE><FILE>C:\Users\moham\Documents\School\CPE 301\Repository\CPE_301\ESD301DA\DA2B\DA2B - Assembly\DA2B - Assembly\main.asm</FILE><LINE>24</LINE></HERE>
+  <delay_4_1_25s><FILE>C:\Users\moham\Documents\School\CPE 301\Repository\CPE_301\ESD301DA\DA2B\DA2B - Assembly\DA2B - Assembly\main.asm</FILE><LINE>36</LINE></delay_4_1_25s>
+  <delay_4_100ms><FILE>C:\Users\moham\Documents\School\CPE 301\Repository\CPE_301\ESD301DA\DA2B\DA2B - Assembly\DA2B - Assembly\main.asm</FILE><LINE>49</LINE></delay_4_100ms>
+  <delay_4_10ms><FILE>C:\Users\moham\Documents\School\CPE 301\Repository\CPE_301\ESD301DA\DA2B\DA2B - Assembly\DA2B - Assembly\main.asm</FILE><LINE>62</LINE></delay_4_10ms>
+  <delay_s><FILE>C:\Users\moham\Documents\School\CPE 301\Repository\CPE_301\ESD301DA\DA2B\DA2B - Assembly\DA2B - Assembly\main.asm</FILE><LINE>68</LINE></delay_s>
+  <delay_4_2_5ms><FILE>C:\Users\moham\Documents\School\CPE 301\Repository\CPE_301\ESD301DA\DA2B\DA2B - Assembly\DA2B - Assembly\main.asm</FILE><LINE>86</LINE></delay_4_2_5ms>
+  <delay_spread1><FILE>C:\Users\moham\Documents\School\CPE 301\Repository\CPE_301\ESD301DA\DA2B\DA2B - Assembly\DA2B - Assembly\main.asm</FILE><LINE>89</LINE></delay_spread1>
+ </LABELS>
+</ASSEMBLER_INFO>
